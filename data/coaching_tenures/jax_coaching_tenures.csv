@@ -1,0 +1,6 @@
+coach,start_year,end_year,tenure_seasons,games,wins,losses,ties,win_pct,g_above_500,playoff_wins,playoff_losses,playoff_win_pct,AvRk,BstRk,Chmp,super_bowl_w,conf_wins
+tom coughlin,1995,2002,8,128,68,60,0,0.531,8,4,4,0.500,2.9,1,0,0,0
+jack del rio,2003,2011,9,139,68,71,0,0.489,-3,1,2,0.333,2.8,2,0,0,0
+gus bradley,2013,2016,4,62,14,48,0,0.226,-34,0,0,0.000,3.3,3,0,0,0
+doug marrone,2016,2020,5,66,23,43,0,0.348,-20,2,1,0.667,3.4,1,0,0,0
+doug pederson,2022,2024,3,51,22,29,0,0.431,-7,1,1,0.500,2.0,1,0,0,0

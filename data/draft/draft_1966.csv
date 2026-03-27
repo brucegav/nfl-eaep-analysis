@@ -1,0 +1,306 @@
+Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,wAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Int,Sk,College/Univ,,-9999
+1,1,ATL,Tommy Nobis,LB,22,1976,1,5,9,58,58,133,0,0,0,0,0,0,0,0,0,0,0,12,9.5,Texas,College Stats,NobiTo00
+1,2,RAM,Tom Mack HOF,G,22,1978,0,11,13,91,91,184,0,0,0,0,0,0,0,0,0,0,0,,,Michigan,,MackTo00
+1,3,PIT,Dick Leftridge,FB,22,1966,0,0,0,0,0,4,0,0,0,0,0,8,17,2,0,0,0,,,West Virginia,College Stats,LeftDi00
+1,4,PHI,Randy Beisler,G,21,1975,0,0,3,35,7,118,0,0,0,0,0,0,0,0,0,0,0,1,3.0,Indiana,College Stats,BeisRa20
+1,5,DAL,John Niland,G,22,1975,3,6,9,76,73,138,0,0,0,0,0,0,0,0,0,0,0,,,Iowa,,NilaJo00
+1,6,WAS,Charlie Gogolak,K,21,1972,0,0,0,12,6,55,0,0,0,0,0,0,0,0,0,0,0,,,Princeton,,GogoCh20
+1,7,MIN,Jerry Shay,DT,22,1971,0,0,3,21,2,63,0,0,0,0,0,0,0,0,0,0,0,,13.5,Purdue,,ShayJe20
+1,8,STL,Carl McAdams,DT,22,1969,0,0,0,9,,26,0,0,0,0,0,0,0,0,0,0,0,,3.0,Oklahoma,College Stats,McAdCa20
+1,9,GNB,Jim Grabowski,RB,21,1971,0,0,5,19,18,75,0,0,0,0,0,475,1731,8,82,675,3,,,Illinois,College Stats,GrabJi00
+1,10,NYG,Francis Peay,T,22,1974,0,0,5,27,6,103,0,0,0,0,0,0,0,0,0,0,0,,,Missouri,,PeayFr20
+1,11,SFO,Stan Hindman,DE,22,1974,0,0,3,24,24,76,0,0,0,0,0,0,0,0,0,0,0,1,26.0,Mississippi,,HindSt20
+1,12,CHI,George Rice,DT,22,1969,0,0,2,18,,37,0,0,0,0,0,0,0,0,0,0,0,,10.0,LSU,,RiceGe20
+1,13,GNB,Gale Gillingham,G,22,1976,1,5,8,52,52,128,0,0,0,0,0,0,0,0,0,0,0,,,Minnesota,,GillGa00
+1,14,CLE,Milt Morin,TE,23,1975,0,2,8,48,48,129,0,0,0,0,0,5,41,0,271,4208,16,,,Massachusetts,,MoriMi00
+1,15,BAL,Sam Ball,T,22,1970,0,0,3,25,25,61,0,0,0,0,0,0,0,0,0,0,0,,,Kentucky,College Stats,BallSa20
+1,16,ATL,Randy Johnson,QB,22,1976,0,0,3,24,13,75,647,1286,8329,51,90,114,573,10,0,0,0,,,Texas A&M-Kingsville,,JohnRa00
+2,17,ATL,Nick Rassas,DB,22,1968,0,0,0,4,4,27,0,0,0,0,0,0,0,0,0,0,0,1,,Notre Dame,College Stats,RassNi20
+2,18,RAM,Mike Garrett,RB,22,1973,1,2,6,66,,104,2,9,70,1,1,1308,5481,35,238,2010,13,,,USC,College Stats,GarrMi00
+2,19,PIT,Larry Gagner,G,22,1972,0,0,4,21,21,59,0,0,0,0,0,0,0,0,0,0,0,,,Florida,,GagnLa20
+2,20,PHI,Gary Pettigrew,DT,21,1974,0,0,6,28,26,111,0,0,0,0,0,0,0,0,0,0,0,,20.0,Stanford,College Stats,PettGa20
+2,21,WAS,Walt Barnes,DT,22,1971,0,0,2,19,13,61,0,0,0,0,0,0,0,0,0,0,0,,5.0,Nebraska,College Stats,BarnWa20
+2,22,DAL,Willie Townes,DE,23,1970,0,0,2,17,15,38,0,0,0,0,0,0,0,0,0,0,0,,18.5,Tulsa,,TownWi20
+2,23,STL,Harold Lucas,T,,,0,0,0,,,,,,,,,,,,,,,,,Michigan St.,,-9999
+2,24,DET,Nick Eddy,RB,22,1972,0,0,0,8,8,29,0,0,0,0,0,152,523,3,24,237,2,,,Notre Dame,College Stats,EddyNi00
+2,25,NYG,Don Davis,DT,22,1966,0,0,1,3,3,14,0,0,0,0,0,0,0,0,0,0,0,,3.5,Los Angeles St.,,DaviDo21
+2,26,SFO,Bob Windsor,TE,23,1975,0,0,5,23,15,117,0,0,0,0,0,9,57,0,185,2307,14,,,Kentucky,College Stats,WindBo00
+2,27,MIN,Jim Lindsey,RB,21,1972,0,0,0,12,12,84,0,0,0,0,0,178,566,6,56,632,4,,,Arkansas,College Stats,LindJi00
+2,28,CHI,Charlie Brown,DB,23,1968,0,0,0,10,8,30,0,0,0,0,0,3,39,0,0,0,0,1,,Syracuse,College Stats,BrowCh22
+2,29,CLE,Rick Norton,QB,22,1970,0,0,0,6,,32,159,382,1815,7,30,19,41,0,0,0,0,,,Kentucky,College Stats,NortRi00
+2,30,GNB,Tom Cichowski,T,22,1968,0,0,1,4,,13,0,0,0,0,0,0,0,0,0,0,0,,,Maryland,,CichTo20
+2,31,BAL,Butch Allison,T,,,0,0,0,,,,,,,,,,,,,,,,,Missouri,,-9999
+2,32,ATL,Jerry Jones,T,22,1969,0,0,2,14,2,44,0,0,0,0,0,0,0,0,0,0,0,,,Bowling Green,,JoneJe23
+3,33,ATL,Mike Dennis,RB,22,1969,0,0,0,2,,15,0,2,0,0,0,29,136,0,8,53,0,,,Mississippi,College Stats,DennMi00
+3,34,RAM,Dick Tyson,G,23,1967,0,0,0,2,,10,0,0,0,0,0,0,0,0,0,0,0,,,Tulsa,,TysoDi20
+3,35,PIT,Pat Killorin,C,22,1966,0,0,0,2,2,5,0,0,0,0,0,0,0,0,0,0,0,,,Syracuse,,KillPa20
+3,36,PHI,Ben Hawkins,WR,22,1974,0,0,7,45,45,104,0,0,0,0,0,10,8,0,261,4764,32,,,Arizona St.,College Stats,HawkBe00
+3,37,SFO,Al Randolph,DB,22,1974,0,0,3,30,22,111,0,0,0,0,0,0,0,0,0,0,0,11,,Iowa,College Stats,RandAl20
+3,38,WAS,Tom Barrington,RB,22,1970,0,0,1,6,1,57,3,11,57,0,0,168,530,3,41,278,1,,,Ohio St.,College Stats,BarrTo00
+3,39,DET,Bill Malinchak,SE,22,1976,0,0,1,5,5,106,0,0,0,0,0,0,0,0,35,508,4,,,Indiana,College Stats,MaliBi00
+3,40,NYG,Tom Fisher,LB,,,0,0,0,,,,,,,,,,,,,,,,,Tennessee,,-9999
+3,41,SFO,Dan Bland,DB,,,0,0,0,,,,,,,,,,,,,,,,,Mississippi St.,College Stats,-9999
+3,42,MIN,Don Hansen,LB,22,1977,0,0,8,53,3,142,0,0,0,0,0,0,0,0,0,0,0,10,6.0,Illinois,,HansDo20
+3,43,STL,Dave Long,DE,22,1972,0,0,4,24,9,96,0,0,0,0,0,0,0,0,0,0,0,,15.0,Iowa,College Stats,LongDa21
+3,44,CHI,Bob Pickens,T,23,1969,0,0,0,5,5,20,0,0,0,0,0,0,0,0,0,0,0,,,Nebraska,,PickBo20
+3,45,GNB,Fred Heron,DT,21,1972,0,0,4,25,,79,0,0,0,0,0,0,0,0,0,0,0,,15.5,San Jose St.,,HeroFr20
+3,46,GNB,Tony Jeter,TE,21,1968,0,0,0,0,,11,0,0,0,0,0,0,0,0,3,27,0,,,Nebraska,College Stats,JeteTo00
+3,47,BAL,Rick Kestner,FL,,,0,0,0,,,,,,,,,,,,,,,,,Kentucky,College Stats,-9999
+3,48,ATL,Phil Sheridan,E,,,0,0,0,,,,,,,,,,,,,,,,,Notre Dame,College Stats,-9999
+4,49,ATL,Ken Reaves,DB,21,1977,0,1,10,52,37,165,0,0,0,0,0,0,0,0,0,0,0,37,,Norfolk St.,,ReavKe00
+4,50,RAM,Henry Dyer,RB,21,1970,0,0,0,4,1,41,0,0,0,0,0,82,256,1,14,160,1,,,Grambling St.,,DyerHe00
+4,51,CHI,Randy Jackson,T,22,1974,0,0,7,32,32,105,0,0,0,0,0,0,0,0,0,0,0,,,Florida,College Stats,JackRa20
+4,52,PHI,Frank Emanuel,LB,23,1970,0,0,2,15,,59,0,0,0,0,0,0,0,0,0,0,0,4,2.5,Tennessee,College Stats,EmanFr20
+4,53,WAS,Billy Clay,DB,22,1966,0,0,0,1,1,6,0,0,0,0,0,0,0,0,0,0,0,1,,Mississippi,College Stats,ClayBi20
+4,54,BAL,Rod Sherman,WR,21,1973,0,0,3,18,,83,0,0,0,0,0,4,20,1,105,1576,5,,,USC,College Stats,SherRo00
+4,55,DET,Doug Van Horn,G,22,1979,0,0,11,54,0,172,0,0,0,0,0,0,0,0,0,0,0,,,Ohio St.,,VanHDo20
+4,56,SFO,Don Parker,G,22,1967,0,0,0,3,3,12,0,0,0,0,0,0,0,0,0,0,0,,,Virginia,,ParkDo20
+4,57,MIN,Ron Acks,LB,21,1976,0,0,3,26,,105,0,0,0,0,0,0,0,0,0,0,0,2,3.0,Illinois,College Stats,AcksRo20
+4,58,STL,Gary Snook,QB,,,0,0,0,,,,,,,,,,,,,,,,,Iowa,College Stats,-9999
+4,59,DET,Willie Walker,WR,23,1966,0,0,0,0,0,9,0,0,0,0,0,1,4,0,1,21,0,,,Tennessee St.,,WalkWi00
+4,60,CHI,Doug Buffone,LB,22,1979,0,0,11,65,65,186,0,0,0,0,0,2,33,0,1,22,0,24,15.0,Louisville,,BuffDo20
+4,61,CLE,Pete Duranko,DE,22,1974,0,0,6,31,,98,0,0,0,0,0,0,0,0,0,0,0,,32.5,Notre Dame,College Stats,DuraPe20
+4,62,GNB,John Roderick,WR,22,1968,0,0,0,1,,18,0,0,0,0,0,0,0,0,11,156,1,,,SMU,College Stats,RodeJo00
+4,63,BAL,Hoyle Granger,RB,22,1972,0,2,3,39,,83,0,0,0,0,0,805,3653,19,134,1339,5,,,Mississippi St.,College Stats,GranHo00
+4,64,ATL,Willie Asbury,RB,23,1968,0,0,2,11,,33,0,1,0,0,0,253,868,11,25,307,2,,,Kent St.,College Stats,AsbuWi00
+5,65,ATL,Bill Wolski,FB,22,1966,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,,,Notre Dame,College Stats,WolsBi20
+5,66,RAM,Diron Talbert,DT,22,1980,0,1,11,73,14,186,0,0,0,0,0,0,0,0,0,0,0,,84.5,Texas,,TalbDi00
+5,67,DET,Bill Cody,LB,22,1972,0,0,0,8,0,52,0,0,0,0,0,0,0,0,0,0,0,,1.5,Auburn,,CodyBi20
+5,68,PHI,Dan Berry,HB,,,0,0,0,,,,,,,,,,,,,,,,,California,College Stats,-9999
+5,69,SFO,Mel Phillips,DB,24,1977,0,0,9,46,46,147,0,0,0,0,0,0,0,0,0,0,0,12,2.0,North Carolina A&T,,PhilMe20
+5,70,WAS,Dick Lemay,T,,,0,0,0,,,,,,,,,,,,,,,,,Vanderbilt,,-9999
+5,71,SFO,Steve Smith,T,22,1974,0,0,4,30,,100,0,0,0,0,0,0,0,0,0,0,0,,1.0,Michigan,College Stats,SmitSt20
+5,72,MIN,Doug Davis,T,22,1972,0,0,4,22,22,79,0,0,0,0,0,0,0,0,0,0,0,,,Kentucky,College Stats,DaviDo24
+5,73,STL,Jack Clancy,SE,22,1970,0,1,3,13,,36,1,1,17,0,0,3,-4,0,104,1401,5,,,Michigan,College Stats,ClanJa00
+5,74,CLE,Randy Schultz,RB,22,1968,0,0,0,3,0,31,0,0,0,0,0,82,301,2,26,220,0,,,Northern Iowa,,ShulRa00
+5,75,NYG,Bill Briggs,DE,22,1967,0,0,0,6,,23,0,0,0,0,0,0,0,0,0,0,0,,1.0,Iowa,,BrigBi20
+5,76,MIN,Bob Hall,DB,,,0,0,0,,,,,,,,,,,,,,,,,Brown,College Stats,-9999
+5,77,RAM,Dick Arndt,DT,22,1970,0,0,0,9,,34,0,0,0,0,0,0,0,0,0,0,0,,2.0,Idaho,,ArndDi20
+5,78,CLE,Dan Fulford,E,,,0,0,0,,,,,,,,,,,,,,,,,Auburn,College Stats,-9999
+5,79,DAL,Walt Garrison,RB,22,1974,0,1,6,48,48,119,0,1,0,0,0,899,3886,30,182,1794,9,,,Oklahoma St.,College Stats,GarrWa00
+5,80,ATL,Martin Kahn,T,,,0,0,0,,,,,,,,,,,,,,,,,North Texas,,-9999
+6,81,ATL,Charley Casey,FL,,,0,0,0,,,,,,,,,,,,,,,,,Florida,College Stats,-9999
+6,82,RAM,Bruce Anderson,DE,22,1970,0,0,3,18,3,59,0,0,0,0,0,0,0,0,0,0,0,,15.0,Willamette,,AndeBr21
+6,83,MIN,Wilbur Aylor,T,,,0,0,0,,,,,,,,,,,,,,,,,Texas St.,,-9999
+6,84,PHI,Bob Sherlag,WR,23,1966,0,0,0,1,,9,0,0,0,0,0,0,0,0,4,53,1,,,Memphis,College Stats,SherBo00
+6,85,CHI,Dennis Brewster,T,,,0,0,0,,,,,,,,,,,,,,,,,BYU,,-9999
+6,86,DAL,Bob Dunlevy,E,,,0,0,0,,,,,,,,,,,,,,,,,West Virginia,College Stats,-9999
+6,87,DET,Wayne DeSutter,T,22,1966,0,0,0,3,,14,0,0,0,0,0,0,0,0,0,0,0,,,Western Illinois,,DeSuWa20
+6,88,STL,Tim Van Galder,QB,22,1972,0,0,0,2,2,5,40,79,434,1,7,9,28,0,0,0,0,,,Iowa St.,College Stats,VanGTi00
+6,89,PHI,Mel Tom,DE,25,1975,0,0,6,31,24,117,0,0,0,0,0,0,0,0,0,0,0,,44.5,San Jose St.,,TomxMe20
+6,90,CLE,Jim Battle,T,24,1966,0,0,0,4,4,6,0,0,0,0,0,0,0,0,0,0,0,,,Southern,,BattJi21
+6,91,SFO,Charlie Johnson,DT,21,1968,0,0,0,5,5,29,0,0,0,0,0,0,0,0,0,0,0,,0.5,Louisville,,JohnCh22
+6,92,CHI,Frank McRae,DT,22,1967,0,0,0,4,4,6,0,0,0,0,0,0,0,0,0,0,0,,,Tennessee St.,,McRaFr20
+6,93,CLE,Fred Hoaglin,C,22,1976,0,1,7,42,36,142,0,0,0,0,0,0,0,0,0,0,0,,,Pittsburgh,,HoagFr00
+6,94,WAS,Earl Yates,T,,,0,0,0,,,,,,,,,,,,,,,,,Duke,,-9999
+6,95,BAL,Stas Maliszewski,LB,,,0,0,0,,,,,,,,,,,,,,,,,Princeton,College Stats,-9999
+7,96,ATL,William Johnson,FB,,,0,0,0,,,,,,,,,,,,,,,,,Univ. of the South,,-9999
+7,97,RAM,George Youngblood,DB,21,1969,0,0,1,14,4,44,0,0,0,0,0,0,0,0,0,0,0,3,,Los Angeles St.,,YounGe21
+7,98,PIT,Emerson Boozer,RB,23,1975,0,2,8,52,,118,0,0,0,0,0,1291,5135,52,139,1488,12,,,MD-Eastern Shore,,BoozEm00
+7,99,PHI,Dave Lince,TE,22,1967,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,,,North Dakota,,LincDa20
+7,100,DAL,Arthur Robinson,E,,,0,0,0,,,,,,,,,,,,,,,,,Florida A&M,,-9999
+7,101,WAS,George Patton,T,,,0,0,0,,,,,,,,,,,,,,,,,Georgia,,-9999
+7,102,STL,Charley Arkwright,T,,,0,0,0,,,,,,,,,,,,,,,,,Georgia,,-9999
+7,103,DET,Johnnie Robinson,DB,21,1966,0,0,0,3,3,14,0,0,0,0,0,0,0,0,0,0,0,,,Tennessee St.,,RobiJo20
+7,104,NYG,Phil Harris,DB,21,1966,0,0,0,1,1,14,0,0,0,0,0,0,0,0,0,0,0,,,Texas,College Stats,HarrPh20
+7,105,BAL,Dave Ellis,DE,,,0,0,0,,,,,,,,,,,,,,,,,North Carolina St.,,-9999
+7,106,MIN,Bob Meers,E,,,0,0,0,,,,,,,,,,,,,,,,,Massachusetts,,-9999
+7,107,CHI,Ron Meyer,QB,22,1966,0,0,0,0,,4,7,19,59,0,1,1,-2,0,0,0,0,,,South Dakota St.,,MeyeRo00
+7,108,GNB,Ray Miller,DE,,,0,0,0,,,,,,,,,,,,,,,,,Idaho,,-9999
+7,109,CLE,Leroy Carter,FL,,,0,0,0,,,,,,,,,,,,,,,,,Grambling St.,,-9999
+7,110,BAL,Ray Perkins,WR,24,1971,0,0,1,20,20,58,0,0,0,0,0,10,77,0,93,1538,11,,,Alabama,College Stats,PerkRa00
+8,111,ATL,Bill Goss,LB,,,0,0,0,,,,,,,,,,,,,,,,,Tulane,,-9999
+8,112,RAM,Vilnis Ezerins,RB,22,1968,0,0,0,0,0,14,0,0,0,0,0,2,2,0,0,0,0,,,Wisconsin–Whitewater,,EzerVi00
+8,113,NYG,Charlie Harper,T,22,1972,0,0,3,28,28,85,0,0,0,0,0,0,0,0,0,0,0,,,Oklahoma St.,,HarpCh20
+8,114,PHI,John Mason,E,,,0,0,0,,,,,,,,,,,,,,,,,Stanford,College Stats,-9999
+8,115,WAS,Stan Mitchell,RB,22,1970,0,0,0,10,,42,0,0,0,0,0,173,548,4,42,533,5,,,Tennessee,College Stats,MitcSt01
+8,116,DAL,Don Kunit,HB,,,0,0,0,,,,,,,,,,,,,,,,,Penn St.,College Stats,-9999
+8,117,DET,John Pincavage,HB,,,0,0,0,,,,,,,,,,,,,,,,,Virginia,College Stats,-9999
+8,118,NYG,Bill Matan,DE,22,1966,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,,,Kansas St.,College Stats,MataBi20
+8,119,SFO,Dick Witcher,WR,21,1973,0,0,4,23,23,109,0,0,0,0,0,0,0,0,172,2359,14,,,UCLA,College Stats,WitcDi00
+8,120,BAL,Gerry Allen,RB,25,1969,0,0,2,9,0,28,0,0,0,0,0,201,664,7,33,400,2,,,Nebraska-Omaha,,AlleJe00
+8,121,STL,Dan Goich,DT,22,1973,0,0,1,15,,56,0,0,0,0,0,0,0,0,0,0,0,,6.0,California,,GoicDa20
+8,122,CHI,Doug McFalls,DB,,,0,0,0,,,,,,,,,,,,,,,,,Georgia,,-9999
+8,123,CLE,Tom Talaga,E,,,0,0,0,,,,,,,,,,,,,,,,,Notre Dame,College Stats,-9999
+8,124,GNB,Ken McLean,FL,,,0,0,0,,,,,,,,,,,,,,,,,Texas A&M,College Stats,-9999
+8,125,BAL,Jack White,QB,,,0,0,0,,,,,,,,,,,,,,,,,Penn St.,College Stats,-9999
+9,126,ATL,Bob Sanders,LB,23,1967,0,0,0,2,2,9,0,0,0,0,0,0,0,0,0,0,0,,,North Texas,,SandBo20
+9,127,RAM,Burton Matthies,HB,,,0,0,0,,,,,,,,,,,,,,,,,,,-9999
+9,128,PIT,Dale Stewart,DE,,,0,0,0,,,,,,,,,,,,,,,,,Pittsburgh,,-9999
+9,129,PHI,Jim Todd,HB,23,1966,0,0,0,0,,10,0,0,0,0,0,2,6,0,0,0,0,,,Ball St.,,ToddJi00
+9,130,DAL,Darrell Elam,E,,,0,0,0,,,,,,,,,,,,,,,,,West Virginia Tech,,-9999
+9,131,WAS,Jack Shinholser,LB,,,0,0,0,,,,,,,,,,,,,,,,,Florida St.,,-9999
+9,132,NYG,Freeman White,TE,22,1969,0,0,1,7,7,55,0,0,0,0,0,0,0,0,29,315,1,2,1.0,Nebraska,College Stats,WhitFr00
+9,133,SFO,Kent Kramer,TE,22,1974,0,0,2,6,1,97,0,0,0,0,0,0,0,0,45,576,8,,,Minnesota,College Stats,KramKe00
+9,134,MIN,Ron Green,WR,22,1968,0,0,0,0,,5,0,0,0,0,0,0,0,0,0,0,0,,,North Dakota,,GreeRo22
+9,135,STL,Charlie Bryant,RB,25,1969,0,0,0,2,0,34,0,0,0,0,0,67,322,0,3,26,0,,,Allen,,BryaCh00
+9,136,DET,Dick Cunningham,T,21,1973,0,0,1,15,,66,0,0,0,0,0,0,0,0,0,0,0,,,Arkansas,,CunnDi20
+9,137,CHI,Fritz Greenlee,LB,22,1969,0,0,0,2,,4,0,0,0,0,0,0,0,0,0,0,0,,,Arizona,,GreeFr21
+9,138,GNB,Ron Rector,RB,22,1967,0,0,0,1,,20,0,0,0,0,0,33,167,0,6,22,0,,,Northwestern,College Stats,RectRo00
+9,139,CLE,Jack Gregory,DE,21,1979,0,2,11,64,25,182,0,0,0,0,0,0,0,0,0,0,0,1,106.0,Delta St.,,GregJa00
+9,140,BAL,Jerry Gross,HB,,,0,0,0,,,,,,,,,,,,,,,,,Auburn,,-9999
+10,141,ATL,Mike Bender,G,,,0,0,0,,,,,,,,,,,,,,,,,Arkansas,,-9999
+10,142,RAM,Mike Capshaw,T,,,0,0,0,,,,,,,,,,,,,,,,,Abilene Christian,,-9999
+10,143,PIT,Jerry Marion,WR,22,1967,0,0,0,0,0,7,0,0,0,0,0,0,0,0,1,16,0,,,Wyoming,College Stats,MariJe00
+10,144,PHI,John Osmond,C,,,0,0,0,,,,,,,,,,,,,,,,,Tulsa,,-9999
+10,145,WAS,Ceasar Belser,DB,21,1974,0,0,0,13,,60,0,0,0,0,0,0,0,0,0,0,0,,,Ark-Pine Bluff,,BelsCe20
+10,146,DAL,Mason Mitchell,HB,,,0,0,0,,,,,,,,,,,,,,,,,Washington,,-9999
+10,147,SFO,Ronald Sbranti,LB,21,1966,0,0,0,3,,14,0,0,0,0,0,0,0,0,0,0,0,,,Utah St.,,SbraRo20
+10,148,DET,Bruce Yates,T,,,0,0,0,,,,,,,,,,,,,,,,,Auburn,,-9999
+10,149,STL,Mike Ringer,HB,,,0,0,0,,,,,,,,,,,,,,,,,Oklahoma,,-9999
+10,150,DET,Tom Brigham,DE,,,0,0,0,,,,,,,,,,,,,,,,,Wisconsin,,-9999
+10,151,NYG,Jeff Smith,LB,22,1966,0,0,1,3,3,14,0,0,0,0,0,0,0,0,0,0,0,1,4.0,USC,College Stats,SmitJe20
+10,152,CHI,Bobby Burnett,RB,23,1969,0,1,1,12,,25,0,0,0,0,0,237,871,4,45,533,4,,,Arkansas,College Stats,BurnBo01
+10,153,CLE,Monte Ledbetter,WR,23,1969,0,0,0,3,,21,0,0,0,0,0,0,0,0,18,314,3,,,Northwestern St. (LA),,LedbMo00
+10,154,GNB,Sam Montgomery,DE,,,0,0,0,,,,,,,,,,,,,,,,,Southern,,-9999
+10,155,BAL,Claude Brownlee,DT,22,1967,0,0,0,1,,3,0,0,0,0,0,0,0,0,0,0,0,,,Benedictine,,BrowCl21
+11,156,ATL,Steve Sloan,QB,22,1967,0,0,0,0,0,8,10,31,134,0,4,1,2,0,0,0,0,,,Alabama,College Stats,SloaSt00
+11,157,RAM,Darrell Hoover,HB,,,0,0,0,,,,,,,,,,,,,,,,,Arizona,,-9999
+11,158,PIT,Charley Washington,HB,,,0,0,0,,,,,,,,,,,,,,,,,Grambling St.,,-9999
+11,159,PHI,Welford Walton,DE,,,0,0,0,,,,,,,,,,,,,,,,,Nevada,,-9999
+11,160,DAL,Austin Denney,TE,22,1971,0,0,4,8,,50,0,0,0,0,0,2,3,0,71,764,3,,,Tennessee,College Stats,DennAu00
+11,161,WAS,Dick Reding,FL,,,0,0,0,,,,,,,,,,,,,,,,,,,-9999
+11,162,MIN,Stan Quintana,DB,,,0,0,0,,,,,,,,,,,,,,,,,New Mexico,College Stats,-9999
+11,163,STL,Bobby Williams,DB,24,1971,0,0,0,6,0,69,0,0,0,0,0,0,0,0,0,0,0,3,2.0,Central Oklahoma,,WillBo22
+11,164,DET,Jack O'Billovich,LB,,,0,0,0,,,,,,,,,,,,,,,,,Oregon St.,,-9999
+11,165,NYG,Cliff Wilder,E,,,0,0,0,,,,,,,,,,,,,,,,,Iowa,College Stats,-9999
+11,166,SFO,Preston Ridlehuber,RB,22,1969,0,0,0,1,,22,1,1,45,1,0,12,55,0,4,84,2,,,Georgia,College Stats,RidlPr00
+11,167,CHI,Terry Owens,T,22,1975,0,0,8,41,,132,0,0,0,0,0,0,0,0,0,0,0,,,Jacksonville St.,,OwenTe20
+11,168,GNB,Ralph Wenzel,G,23,1973,0,0,0,12,,71,0,0,0,0,0,0,0,0,0,0,0,,,San Diego St.,,WenzRa21
+11,169,CLE,Tony Fire,T,,,0,0,0,,,,,,,,,,,,,,,,,Bowling Green,,-9999
+11,170,BAL,Eric Crabtree,WR,21,1971,0,0,5,26,,83,0,0,0,0,0,8,37,0,164,2663,22,,,Pittsburgh,College Stats,CrabEr00
+12,171,ATL,Ken Hollister,T,,,0,0,0,,,,,,,,,,,,,,,,,Indiana,,-9999
+12,172,RAM,George Clayton,DB,,,0,0,0,,,,,,,,,,,,,,,,,Fairmont St.,,-9999
+12,173,DAL,Les Shy,RB,22,1970,0,0,0,8,8,65,0,0,0,0,0,144,523,3,23,273,1,,,Long Beach St.,,ShyxLe00
+12,174,PHI,Bruce Van Dyke,G,22,1976,0,1,9,46,1,128,0,0,0,0,0,0,0,0,0,0,0,,,Missouri,,VanDBr00
+12,175,WAS,John Stipech,LB,,,0,0,0,,,,,,,,,,,,,,,,,Utah,,-9999
+12,176,DAL,Craig Baynham,HB,22,1972,0,0,2,10,9,50,0,1,0,0,0,152,553,6,45,446,3,,,Georgia Tech,College Stats,BaynCr00
+12,177,STL,Rickey Johnson,T,,,0,0,0,,,,,,,,,,,,,,,,,Clemson,,-9999
+12,178,DET,Randy Winkler,T,23,1971,0,0,1,7,2,27,0,0,0,0,0,0,0,0,0,0,0,,,Tarleton St.,,WinkRa20
+12,179,NYG,Ken Avery,LB,22,1975,0,0,5,34,8,123,0,0,0,0,0,0,0,0,0,0,0,2,7.0,Southern Miss,,AverKe20
+12,180,SFO,Lyle Loebach,T,,,0,0,0,,,,,,,,,,,,,,,,,Simpson,,-9999
+12,181,MIN,Bob Petrella,DB,21,1971,0,0,2,15,,61,0,0,0,0,0,0,0,0,0,0,0,5,,Tennessee,,PetrBo20
+12,182,CHI,Wayne Page,DE,,,0,0,0,,,,,,,,,,,,,,,,,Clemson,,-9999
+12,183,CLE,Rich Czap,T,,,0,0,0,,,,,,,,,,,,,,,,,Nebraska,,-9999
+12,184,GNB,Jim Mankins,RB,22,1967,0,0,0,0,,11,0,0,0,0,0,2,7,0,1,11,0,,,Florida St.,College Stats,MankJi00
+12,185,BAL,Jim Carter,G,,,0,0,0,,,,,,,,,,,,,,,,,Tennessee St.,,-9999
+13,186,ATL,Bob Collins,T,,,0,0,0,,,,,,,,,,,,,,,,,South Carolina,,-9999
+13,187,RAM,Jake David,HB,,,0,0,0,,,,,,,,,,,,,,,,,Lamar,,-9999
+13,188,PIT,Benjy Dial,QB,23,1967,0,0,0,0,,1,1,3,5,0,0,0,0,0,0,0,0,,,Eastern New Mexico,,DialBe00
+13,189,PHI,Jim Bohl,HB,,,0,0,0,,,,,,,,,,,,,,,,,New Mexico St.,College Stats,-9999
+13,190,DAL,Ron Lamb,RB,23,1972,0,0,0,2,,56,0,0,0,0,0,55,163,0,8,97,0,,,South Carolina,College Stats,LambRo00
+13,191,WAS,Heath Wingate,C,21,1967,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,,,Bowling Green,,WingHe20
+13,192,DET,Bill Maselter,T,,,0,0,0,,,,,,,,,,,,,,,,,Wisconsin,,-9999
+13,193,NYG,Jim Fulgham,T,,,0,0,0,,,,,,,,,,,,,,,,,Minnesota,,-9999
+13,194,SFO,Jim Jackson,DB,22,1967,0,0,0,4,4,13,0,0,0,0,0,4,7,0,1,63,1,1,,Western Illinois,,JackJi20
+13,195,MIN,Larry Martin,DT,25,1966,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,,,San Diego St.,,MartLa20
+13,196,STL,Jim Brown,G,,,0,0,0,,,,,,,,,,,,,,,,,Nebraska,,-9999
+13,197,CHI,Wayne Becker,T,,,0,0,0,,,,,,,,,,,,,,,,,Montana,,-9999
+13,198,GNB,Ed King,LB,,,0,0,0,,,,,,,,,,,,,,,,,USC,,-9999
+13,199,CLE,Jim Boudreaux,T,21,1968,0,0,0,5,,12,0,0,0,0,0,0,0,0,0,0,0,,,Louisiana Tech,,BoudJi20
+13,200,BAL,Bob Hadrick,E,,,0,0,0,,,,,,,,,,,,,,,,,Purdue,College Stats,-9999
+14,201,ATL,Steve Ecker,K,,,0,0,0,,,,,,,,,,,,,,,,,Shippensburg,,-9999
+14,202,RAM,Terry Parks,T,,,0,0,0,,,,,,,,,,,,,,,,,Los Angeles St.,,-9999
+14,203,PIT,Joe Novogratz,LB,,,0,0,0,,,,,,,,,,,,,,,,,Pittsburgh,,-9999
+14,204,PHI,Ron Medved,DB,22,1970,0,0,1,9,9,51,0,0,0,0,0,0,0,0,0,0,0,3,,Washington,College Stats,MedvRo20
+14,205,WAS,Jerry Lovelace,HB,,,0,0,0,,,,,,,,,,,,,,,,,Texas Tech,,-9999
+14,206,DAL,Lewis Turner,HB,,,0,0,0,,,,,,,,,,,,,,,,,Norfolk St.,,-9999
+14,207,NYG,Howard McCard,G,,,0,0,0,,,,,,,,,,,,,,,,,Syracuse,,-9999
+14,208,SFO,Elmer Collett,G,21,1977,0,1,7,50,22,145,0,0,0,0,0,0,0,0,0,0,0,,,San Francisco St.,,CollEl00
+14,209,MIN,Howard Twilley,WR,22,1976,0,0,5,36,,120,0,0,0,0,0,0,0,0,212,3064,23,,,Tulsa,College Stats,TwilHo00
+14,210,STL,LaVerle Pratt,LB,,,0,0,0,,,,,,,,,,,,,,,,,Idaho,,-9999
+14,211,DET,Denis Moore,DT,22,1970,0,0,0,12,12,33,0,0,0,0,0,0,0,0,0,0,0,,4.0,USC,,MoorDe21
+14,212,CHI,Mike Buckner,DB,,,0,0,0,,,,,,,,,,,,,,,,,Northwestern,,-9999
+14,213,CLE,Pete Lammons,TE,22,1972,0,1,6,24,,95,0,0,0,0,0,0,3,0,185,2364,14,,,Texas,College Stats,LammPe00
+14,214,GNB,Ron Hanson,FL,,,0,0,0,,,,,,,,,,,,,,,,,North Dakota St.,,-9999
+14,215,BAL,Jim Ward,QB,22,1971,0,0,0,1,1,13,13,26,165,2,2,5,23,0,0,0,0,,,Gettysburg,,WardJi00
+15,216,ATL,Tommy Tolleson,WR,23,1966,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,,,Alabama,College Stats,TollTo20
+15,217,RAM,Mike Sullivan,E,,,0,0,0,,,,,,,,,,,,,,,,,Oregon St.,College Stats,-9999
+15,218,PIT,Joe Dobson,T,,,0,0,0,,,,,,,,,,,,,,,,,Idaho,,-9999
+15,219,PHI,Harry Day,T,,,0,0,0,,,,,,,,,,,,,,,,,Memphis,,-9999
+15,220,DAL,Mark Gartung,T,,,0,0,0,,,,,,,,,,,,,,,,,Oregon St.,,-9999
+15,221,WAS,Hal Seymour,HB,,,0,0,0,,,,,,,,,,,,,,,,,Florida,College Stats,-9999
+15,222,SFO,Saint Saffold,SE,22,1968,0,0,0,2,,14,0,0,0,0,0,1,21,0,16,172,0,,,San Jose St.,,SaffSa00
+15,223,MIN,Hugh Wright,HB,,,0,0,0,,,,,,,,,,,,,,,,,Adams St.,,-9999
+15,224,STL,Darryl Alleman,E,,,0,0,0,,,,,,,,,,,,,,,,,Wyoming,College Stats,-9999
+15,225,DET,Bill Sullivan,DE,,,0,0,0,,,,,,,,,,,,,,,,,West Virginia,,-9999
+15,226,NYG,Steve Bowman,HB,21,1966,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,,,Alabama,College Stats,BowmSt20
+15,227,CHI,Jim Kollman,G,,,0,0,0,,,,,,,,,,,,,,,,,Oregon,,-9999
+15,228,GNB,Grady Bolton,T,,,0,0,0,,,,,,,,,,,,,,,,,Mississippi St.,,-9999
+15,229,CLE,Bob Ellis,DE,,,0,0,0,,,,,,,,,,,,,,,,,Massachusetts,,-9999
+15,230,BAL,Lee Garner,LB,,,0,0,0,,,,,,,,,,,,,,,,,Mississippi,,-9999
+16,231,ATL,Jim Vining,G,,,0,0,0,,,,,,,,,,,,,,,,,Rice,,-9999
+16,232,RAM,Joe O'Brien,E,,,0,0,0,,,,,,,,,,,,,,,,,Texas-Arlington,,-9999
+16,233,PIT,Jim Long,E,,,0,0,0,,,,,,,,,,,,,,,,,Purdue,,-9999
+16,234,PHI,Arunas Vasys,LB,23,1968,0,0,0,6,6,22,0,0,0,0,0,0,0,0,0,0,0,,0.5,Notre Dame,,VasyAr20
+16,235,WAS,Hal Wantland,DB,22,1966,0,0,0,1,,2,0,0,0,0,0,0,0,0,0,0,0,,,Tennessee,College Stats,WantHa20
+16,236,DAL,Tom Piggee,HB,,,0,0,0,,,,,,,,,,,,,,,,,San Francisco St.,,-9999
+16,237,MIN,Jim Williams,DE,,,0,0,0,,,,,,,,,,,,,,,,,Arkansas,,-9999
+16,238,STL,Dick Kasperek,C,23,1968,0,0,0,5,5,20,0,0,0,0,0,0,0,0,0,0,0,,,Iowa St.,,KaspDi20
+16,239,DET,Jerry Gendron,E,,,0,0,0,,,,,,,,,,,,,,,,,Wisconsin–Eau Claire,,-9999
+16,240,NYG,Sammy Price,RB,22,1968,0,0,1,3,,36,0,0,0,0,0,82,313,1,10,70,1,,,Illinois,College Stats,PricSa00
+16,241,SFO,Jim LeClair,QB,22,1968,0,0,0,2,,8,46,99,676,2,6,20,46,1,0,0,0,,,C.W. Post,,LeClJi00
+16,242,CHI,Lynn Senkbeil,LB,,,0,0,0,,,,,,,,,,,,,,,,,Nebraska,,-9999
+16,243,CLE,David Ray,K,21,1974,0,0,0,10,,70,0,0,0,0,0,0,0,0,1,11,0,,,Alabama,College Stats,RayxDa21
+16,244,GNB,Bob Schultz,DE,,,0,0,0,,,,,,,,,,,,,,,,,Wisconsin–Stevens Point,,-9999
+16,245,BAL,Rod Stewart,E,,,0,0,0,,,,,,,,,,,,,,,,,Duke,College Stats,-9999
+17,246,ATL,Lurley Archambeau,C,,,0,0,0,,,,,,,,,,,,,,,,,Toledo,College Stats,-9999
+17,247,RAM,Dan Gilbert,T,,,0,0,0,,,,,,,,,,,,,,,,,Arkansas Tech,,-9999
+17,248,PIT,Mike Brundage,QB,,,0,0,0,,,,,,,,,,,,,,,,,Oregon,College Stats,-9999
+17,249,PHI,Ike Kelley,LB,22,1971,0,0,0,10,10,67,0,0,0,0,0,0,0,0,0,0,0,1,,Ohio St.,,KellIk20
+17,250,DAL,George Allen,T,22,1966,0,0,0,1,,9,0,0,0,0,0,0,0,0,0,0,0,,,West Texas A&M,,AlleGe20
+17,251,WAS,Mitch Zalnasky,E,,,0,0,0,,,,,,,,,,,,,,,,,Pittsburgh,College Stats,-9999
+17,252,STL,Benny Russell,QB,22,1968,0,0,0,0,,1,1,2,3,0,0,0,0,0,0,0,0,,,Louisville,,RussBe00
+17,253,DET,Ralph Dunlap,DE,,,0,0,0,,,,,,,,,,,,,,,,,Baylor,,-9999
+17,254,NYG,Gary Eickman,T,,,0,0,0,,,,,,,,,,,,,,,,,Illinois,,-9999
+17,255,SFO,Jim Breland,C,,,0,0,0,,,,,,,,,,,,,,,,,Georgia Tech,,-9999
+17,256,MIN,Monroe Beard,HB,,,0,0,0,,,,,,,,,,,,,,,,,Virginia Union,,-9999
+17,257,CHI,Curt Gentry,DB,29,1968,0,0,1,13,13,38,0,0,0,0,0,0,0,0,0,0,0,6,,MD-Eastern Shore,,GentCu20
+17,258,GNB,Dave Hathcock,DB,23,1967,0,0,0,5,3,20,0,0,0,0,0,0,0,0,0,0,0,,,Memphis,,HathDa20
+17,259,CLE,Gene Modzelewski,T,,,0,0,0,,,,,,,,,,,,,,,,,New Mexico St.,,-9999
+17,260,BAL,Randy Matson,T,,,0,0,0,,,,,,,,,,,,,,,,,Texas A&M,,-9999
+18,261,ATL,Doug Korver,C,,,0,0,0,,,,,,,,,,,,,,,,,Northern Iowa,,-9999
+18,262,RAM,Ray Johnson,LB,,,0,0,0,,,,,,,,,,,,,,,,,Whitworth,,-9999
+18,263,PIT,Ken Lucas,QB,,,0,0,0,,,,,,,,,,,,,,,,,Pittsburgh,College Stats,-9999
+18,264,PHI,Bill Moorer,C,,,0,0,0,,,,,,,,,,,,,,,,,Georgia Tech,,-9999
+18,265,WAS,Joe Burson,HB,,,0,0,0,,,,,,,,,,,,,,,,,Georgia,,-9999
+18,266,DAL,Steve Orr,T,,,0,0,0,,,,,,,,,,,,,,,,,Washington,,-9999
+18,267,DET,Bill Johnson,E,,,0,0,0,,,,,,,,,,,,,,,,,West Alabama,,-9999
+18,268,NYG,Kai Anderson,C,,,0,0,0,,,,,,,,,,,,,,,,,Illinois,,-9999
+18,269,SFO,Ron Parson,E,,,0,0,0,,,,,,,,,,,,,,,,,Austin Peay St.,,-9999
+18,270,MIN,Dale Greco,DT,,,0,0,0,,,,,,,,,,,,,,,,,Illinois,,-9999
+18,271,STL,Willie Jones,DT,24,1971,0,0,0,7,,22,0,0,0,0,0,0,0,0,0,0,0,,1.0,Kansas St.,,JoneWi20
+18,272,CHI,Charley Kines,T,,,0,0,0,,,,,,,,,,,,,,,,,Michigan,,-9999
+18,273,CLE,Charlie Harraway,RB,21,1973,0,0,5,43,5,110,0,0,0,0,0,822,3019,20,158,1304,7,,,San Jose St.,,HarrCh00
+18,274,GNB,Jim Jones,DE,,,0,0,0,,,,,,,,,,,,,,,,,Nebraska-Omaha,,-9999
+18,275,BAL,Ed Toner,DT,21,1969,0,0,0,5,,26,0,0,0,0,0,0,0,0,0,0,0,,1.0,Massachusetts,,ToneEd20
+19,276,ATL,Walt Mainer,DB,,,0,0,0,,,,,,,,,,,,,,,,,,,-9999
+19,277,RAM,Homer Williams,FL,,,0,0,0,,,,,,,,,,,,,,,,,USC,,-9999
+19,278,PIT,Dave Neilson,QB,,,0,0,0,,,,,,,,,,,,,,,,,Albion,,-9999
+19,279,PHI,Taft Reed,DB,24,1967,0,0,0,2,2,6,0,0,0,0,0,0,0,0,0,0,0,,,Jackson St.,,ReedTa20
+19,280,DAL,Byron Johnson,T,,,0,0,0,,,,,,,,,,,,,,,,,Central Washington,,-9999
+19,281,WAS,Andre White,TE,21,1968,0,0,0,1,,22,0,0,0,0,0,0,0,0,7,105,0,,,Florida A&M,,WhitAn00
+19,282,NYG,Bobby Crockett,SE,23,1969,0,0,1,6,,28,0,0,0,0,0,0,0,0,41,659,3,,,Arkansas,College Stats,CrocBo00
+19,283,SFO,Dick Fitzgerald,T,,,0,0,0,,,,,,,,,,,,,,,,,Nebraska,,-9999
+19,284,MIN,Jesse Stokes,DB,22,1968,0,0,0,1,,2,0,0,0,0,0,0,0,0,0,0,0,,,Corpus Christi,,StokJe20
+19,285,STL,Tony Golmont,DB,,,0,0,0,,,,,,,,,,,,,,,,,North Carolina St.,,-9999
+19,286,DET,Bob Baier,T,,,0,0,0,,,,,,,,,,,,,,,,,Simpson,,-9999
+19,287,CHI,Roger Haberer,HB,,,0,0,0,,,,,,,,,,,,,,,,,Eastern Illinois,,-9999
+19,288,GNB,Dave Moton,E,,,0,0,0,,,,,,,,,,,,,,,,,USC,College Stats,-9999
+19,289,CLE,Karl Singer,T,22,1968,0,0,0,6,,39,0,0,0,0,0,0,0,0,0,0,0,,,Purdue,,SingKa20
+19,290,BAL,Ken Duke,HB,,,0,0,0,,,,,,,,,,,,,,,,,Morgan St.,,-9999
+20,291,ATL,Bob Riggle,DB,22,1967,0,0,2,7,7,25,0,0,0,0,0,0,0,0,0,0,0,3,2.5,Penn St.,College Stats,RiggBo20
+20,292,RAM,Bud Harrington,FB,,,0,0,0,,,,,,,,,,,,,,,,,Tulsa,College Stats,-9999
+20,293,PIT,Ron Springer,T,,,0,0,0,,,,,,,,,,,,,,,,,Albion,,-9999
+20,294,PHI,Bill Risio,T,,,0,0,0,,,,,,,,,,,,,,,,,Boston Col.,,-9999
+20,295,WAS,John Kelly,T,22,1967,0,0,0,5,5,16,0,0,0,0,0,0,0,0,0,0,0,,,Florida A&M,,KellJo22
+20,296,DAL,Lou Hudson,FL,,,0,0,0,,,,,,,,,,,,,,,,,Minnesota,,-9999
+20,297,SFO,Willie Walker,E,,,0,0,0,,,,,,,,,,,,,,,,,Baylor,College Stats,-9999
+20,298,PHI,Gerald Circo,K,,,0,0,0,,,,,,,,,,,,,,,,,Cal State-Chico,,-9999
+20,299,STL,Tom Gallagher,DE,,,0,0,0,,,,,,,,,,,,,,,,,Indiana,,-9999
+20,300,DET,Allen Smith,HB,23,1966,0,0,0,0,,1,0,0,0,0,0,0,0,0,0,0,0,,,Findlay,,SmitAl21
+20,301,NYG,Randy Minniear,RB,22,1970,0,0,0,5,5,27,0,0,0,0,0,96,316,5,19,148,1,,,Purdue,College Stats,MinnRa00
+20,302,CHI,Goldie Sellers,DB,24,1969,0,0,1,18,,55,0,0,0,0,0,0,0,0,0,0,0,13,,Grambling St.,,SellGo20
+20,303,CLE,Joe Petro,DB,,,0,0,0,,,,,,,,,,,,,,,,,Temple,,-9999
+20,304,GNB,Ed Maras,E,,,0,0,0,,,,,,,,,,,,,,,,,South Dakota St.,,-9999
+20,305,BAL,Tom Carr,DT,24,1968,0,0,0,1,,4,0,0,0,0,0,0,0,0,0,0,0,,,Morgan St.,,CarrTo20

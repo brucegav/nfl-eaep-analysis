@@ -1,0 +1,4 @@
+coach,start_year,end_year,tenure_seasons,games,wins,losses,ties,win_pct,g_above_500,playoff_wins,playoff_losses,playoff_win_pct,AvRk,BstRk,Chmp,super_bowl_w,conf_wins
+ted marchibroda,1996,1998,3,48,16,31,1,0.344,-15,0,0,0.000,4.7,4,0,0,0
+brian billick,1999,2007,9,144,80,64,0,0.556,16,5,3,0.625,2.3,1,1,1,1
+john harbaugh,2008,2025,18,293,180,113,0,0.614,67,13,11,0.542,1.9,1,1,1,1
