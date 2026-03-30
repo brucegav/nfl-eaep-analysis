@@ -32,7 +32,7 @@ Coaching stability accounts for 26.8% of franchise EAEP variance across all 32 f
 <br>
 
 ![Detroit Lions vs Green Bay Trajectory](visualizations/det_vs_gb_trajectory.png)
-The Detroit Lions and Green Bay Packers followed nearly identical EAEP trajectories from the 1940s through the early 1990s. Both franchises were declining. Then in 1994 they diverged completely. Green Bay hired Ron Wolf as GM, drafted Brett Favre, and brought in Mike Holmgren as head coach. Their EAEP rose sharply and never came back down. Detroit changed nothing organizationally and their decline continued for another 30 years. Same era, same trajectory, completely different organizational decisions. The data makes the cost of those decisions impossible to ignore.
+The Detroit Lions and Green Bay Packers followed nearly identical EAEP trajectories from the 1940s through the early 1990s. Both franchises were declining. Then in 1994 they diverged completely. Green Bay hired Ron Wolf as GM, traded for a young Brett Favre, and brought in Mike Holmgren as head coach. Their EAEP rose sharply and never came back down. Detroit changed nothing organizationally and their decline continued for another 30 years. Same era, same trajectory, completely different organizational decisions. The data makes the cost of those decisions impossible to ignore.
 <br>
 <br>
 ![2022-2025 Predictions](visualizations/model_validation.png)
