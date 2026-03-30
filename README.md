@@ -54,7 +54,7 @@ Where:
 Using EAEP rather than raw ELO scores to compare franchises across diverse NFL eras, allows one to remove much of the cumulative and era bias that plagues the typical comparison of NFL teams across different eras.  A 1950s NFL team existed under wildly different circumstances than a 1990s team.  For example, there were only 12-13 NFL teams in the 1950s, as opposed to 30+ in the 1990s.  The forward pass was still a bit of a novelty and under utilized in 1950s football, whereas passing was an essential part of the game in the 1990s.  EAEP allows us to account for these disparities by comparing the performance of each team against only those it faced in that specific season (a rank percentile), and then taking the mean of that rank percentile over the life of the franchise.  So rather than comparing a raw ELO score from one season against another season 40 years in the future, where a 1550 ELO in 1955 may mean something different than a 1550 ELO in 1995, we compare how each team ranked in each season.  A reasonable question would be, "Why not just average season-end ELO across a franchise's lifetime".  The 1955 Cleveland Browns had a 1650 ELO and the 2005 Patriots had a 1750 ELO.  The Browns existed in a 13 team league, while the Patriots played in a 32 team league.  The distribution of season-end ELOs are completely different for each example.  A simple average of the raw ELOs would treat them as equal though, which is certainly not the case.  This is why rank percentile metric is a more accurate representation of how each team performed in each season, with minimal era bias.  Of course there are still limitations in that a #1 EAEP ranking in a 12 team league may not be as impressive as a #1 ranking in a 32 team league, but it gets us closer to an accurate comparison with less bias.
 
 ## Project Structure
-
+```
 nfl-eaep-analysis/
 ├── README.md
 ├── requirements.txt
@@ -76,6 +76,7 @@ nfl-eaep-analysis/
 │   ├── nfl_standings_2021_2025.csv
 │   └── playoff_seasons.csv
 └── visualizations/        # All saved chart outputs
+```
 
 
 ## How to Run
