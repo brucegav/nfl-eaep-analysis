@@ -28,3 +28,7 @@ data/nfl_elo_latest.csv
 data/nfl_elo.csv
 data/nfl_games.csv
 data/draft/draft_1960_1979.csv
+.venv/
+.DS_Store
+**/.DS_Store
+.venv/
